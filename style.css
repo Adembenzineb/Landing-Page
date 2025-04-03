@@ -1,7 +1,9 @@
 *{
-    font-family: Roboto;
     margin: 0px;
 }
+body {
+    font-family: 'Roboto', sans-serif;
+  }
 #headmenu{
     background-color:#1F2937 ;
     color: #F9FaF8;
