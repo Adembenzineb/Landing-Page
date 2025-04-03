@@ -84,3 +84,25 @@ a{
     margin-top: 60px;
     margin-bottom: 40px;
 }
+#quote{
+    width: 100%;
+    height: 400px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+#quote-text{
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    margin-top: 60px;
+}
+#quote-owner{
+    align-self: flex-end;
+    margin-right:400px;
+}
