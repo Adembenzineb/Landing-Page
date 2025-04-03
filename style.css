@@ -132,5 +132,20 @@ a{
     border: 3px solid #F9FaF8 ;
     border-radius: 0.5rem;
 }
+footer{
+    width: 100%;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+    background-color: #1F2937;
+
+    font-family: 'Roboto', sans-serif; 
+    font-style: italic;         
+    font-weight: 300;           
+    font-size: 0.9em;               
+    text-align: center;  
+}
 
 
